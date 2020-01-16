@@ -43,7 +43,7 @@ urls:
       url: /feed.xml
 
 url: "https://a73xsh.github.io/"
-baseurl: ""
+baseurl: "https://a73xsh.github.io/"
 paginate: 20
 per_page: 20
 paginate_path: "/page/:num/"
