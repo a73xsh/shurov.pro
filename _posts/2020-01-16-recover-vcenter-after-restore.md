@@ -67,7 +67,8 @@ service-control --start --all
 ```
 
 if services cannot start
-https://docs.vmware.com/en/VMware-vSphere/6.5/com.vmware.vsphere.install.doc/GUID-D3BA6EB6-7BD9-44E5-8A6E-7C2CE7808630_copy3.html
+* VmWare documentation: [https://docs.vmware.com/en/VMware-vSphere/6.5/](https://docs.vmware.com/en/VMware-vSphere/6.5/com.vmware.vsphere.install.doc/GUID-D3BA6EB6-7BD9-44E5-8A6E-7C2CE7808630_copy3.html)
+
 
 ```bash
 vcenter-restore -u psc_administrator_username -p psc_administrator_password 

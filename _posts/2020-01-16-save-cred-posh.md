@@ -2,7 +2,7 @@
 layout: post
 title: "Save credential XML file"
 date: 2020-01-16 14:45
-category: [poweshell,windows]
+category: [powershell,windows]
 ---
 
 ```powershell
