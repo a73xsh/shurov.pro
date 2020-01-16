@@ -42,8 +42,8 @@ urls:
     - text: XML Feed
       url: /feed.xml
 
-url: "https://a73xsh.github.io/"
-baseurl: "https://a73xsh.github.io/"
+url: "https://shurov.pro/"
+baseurl: "https://shurov.pro/"
 paginate: 20
 per_page: 20
 paginate_path: "/page/:num/"
