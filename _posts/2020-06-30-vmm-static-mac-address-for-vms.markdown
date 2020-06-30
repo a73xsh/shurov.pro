@@ -1,6 +1,6 @@
 ---
 title: VMM static MAC address for VMs
-layout: 
+layout: post
 category: [powershell,windows]
 ---
 
